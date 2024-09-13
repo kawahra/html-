@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CBC | コーティング01</title>
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="header__wrap">
+        <div class="header__logo">
+          <a href=""><img src="images/header_logo.svg"></a>
+        </div>
+        <div class="header__menu">
+          <ul>
+            <li><a href="">ナビ01</a></li>
+            <li><a href="">ナビ02</a></li>
+            <li><a href="">ナビ03</a></li>
+            <li><a href="">ナビ04</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <main class="main">
+      <section class="main__kv">
+        むずかしいことを簡単に。<br>
+        つまらないことを面白く。<br>
+        わからないが分かる人に。<br>
+      </section>
+
+      <section class="main__about">
+        <h1 class="main__about--ttl">h1タイトルタイトルタイトルタイトル</h1>
+        <div class="main__about--logo"><img src="images/header_logo.svg" alt="logo"></div>
+        <p class="main__about--txt">
+          テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+          テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+          テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+          テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+          テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+        </p>
+      </section>
+
+      <section class="main__service">
+        <div class="main__service--message">
+          <h2>h2 title</h2>
+          <p>
+            テキストテキストテキストテキストテキストテキストテキストテキスト<br>
+            テキストテキストテキストテキストテキストテキストテキストテキストテキスト<br>
+            テキストテキストテキストテキストテキストテキストテキスト<br>
+            テキストテキストテキスト
+          </p>
+        </div>
+        <ul class="main__service--list">
+          <li>
+            <a href="">
+              <img src="images/top_service01.jpg" alt="">
+              <h3 >h3 title01</h3>
+              <p>テキストテキストテキスト</p>
+            </a>
+          </li>
+          <li>
+            <a href="">
